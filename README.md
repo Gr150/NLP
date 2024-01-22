@@ -1,0 +1,1 @@
+eriodically crawling a website to update the corpus and papers as .json files. The corpus comprises an inverted index of pre-processed words along with their term frequencies. Constructed a search engine based on both Vector Space Model and Tfidf Score Model.
